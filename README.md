@@ -1,4 +1,4 @@
-# Sample E-Commerce application using Microservices / Cloud Native Architecture (CNA)
+# E-Commerce application using Microservices / Cloud Native Architecture (CNA)
 **_A fictitious e-commerce sample application built using modern technologies and  Microservices & Cloud Native Architecture patterns._**
 - **Polyglot Languages & Frameworks** (Java - Spring Boot/Cloud, Python - FastAPI, SQLAlachamey, JavaScript/TypeScript - Node, ExpressJS, React)
 - **Polyglot Databases** (MongoDB, Redis, ElastiSearch, PostgreSQL)
